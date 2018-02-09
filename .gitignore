@@ -81,3 +81,6 @@ $RECYCLE.BIN/
 .vs/ARKitCore/v15/sqlite3/storage.ide
 .vs/VeluxARKitCore/v15/sqlite3/storage.ide
 .vs/VisualizePointCloud/v15/sqlite3/storage.ide
+
+#lock files
+*.lock
